@@ -24,4 +24,4 @@ else if (xp >= 6001 && xp <= 7000){
 else{
     nivel = "Radiante"
 }
-console.log("O Herói de nome " + char + "está no nivel de " + nivel + "e com a quantidade " + xp + "de XP!");
+console.log("O Herói de nome " + char + " está no nivel " + nivel + " e com a quantidade " + xp + " de XP!");
